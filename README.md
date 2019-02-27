@@ -1,11 +1,10 @@
-<!DOCTYPE HTML>
 <html>
   <head>
-    <title>Button tag</title>
+    <title><h1>Bienvenido a mi pagina</h1></title>
     </head>
-     <body>
-       <button>Button1</button>
-       <br>
-       <button>Button2</button>
-       </body>
-  </html>
+  <body
+        <h2>Esta es mi pagina web</h2>
+        </body>
+        </html>
+   
+       
