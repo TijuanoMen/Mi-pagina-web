@@ -1,7 +1,11 @@
+<!DOCTYPE HTML>
 <html>
   <head>
-  </head>
-  <body>
-    <h1>BIENVENIDO<h1>
-  </body>
-      </html>
+    <title>Button tag</title>
+    </head>
+     <body>
+       <button>Button1</button>
+       <br>
+       <button>Button2</button>
+       </body>
+  </html>
