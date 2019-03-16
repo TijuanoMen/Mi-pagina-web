@@ -27,7 +27,7 @@
     <div class="cocina'">
                 
                 <h1>COCINANDO</h1>
-               <img src="Micocina.png"width"200px" height"200px">
+               <img src="Micocina.png" width:200px" height:"200px">
                  <h3 aling="center">dale sabor a tu comida<h3>
-                                   </body>
-                                   </html>
+  </body>
+ </html>
